@@ -1,0 +1,23 @@
+#safety{ 
+	height: 27px;
+}
+#header_nav{
+	width: 91%;
+	font-size: 19px;
+	position: sticky;
+	color: black;
+	padding-top: 1%;
+	z-index: 99;
+}
+.nav-link{
+	color: black;
+	padding: 0px 20px;
+}
+
+.nav-link:hover{
+	color: #33cccc;
+}
+
+#safety{
+	text-align: center;
+}

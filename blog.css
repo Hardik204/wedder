@@ -1,0 +1,55 @@
+#header_color{
+	background: #DD5E89;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #F7BB97, #DD5E89);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #F7BB97, #DD5E89); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#content_color{
+	background-color: #f8ecf2;
+}
+#safety{ 
+	height: 27px;
+}
+#header_nav{
+	width: 91%;
+	font-size: 19px;
+	position: sticky;
+	color: black;
+	padding-top: 1%;
+	z-index: 99;
+}
+.nav-link{
+	color: black;
+	padding: 0px 20px;
+}
+
+.nav-link:hover{
+	color: #33cccc;
+}
+
+#safety{
+	text-align: center;
+}
+#font1{
+	padding-bottom: 5%;
+	font-family: Didot;
+}
+#block{
+	width: 40%;
+	padding: 10px;
+}
+#footer_link:hover{
+	color: #4040bf;
+	text-decoration: none;
+}
+#footer_link{
+	color: black;
+}
+#footer_ul{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+li{
+	padding-bottom: 10px;
+}
